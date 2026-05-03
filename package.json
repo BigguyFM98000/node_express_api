@@ -1,0 +1,30 @@
+{
+  "name": "node_express_api",
+  "version": "1.0.0",
+  "description": "A backend api created with node.js, express,js and mongodb.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BigguyFM98000/node_express_api.git"
+  },
+  "keywords": [],
+  "author": "Fhatuwani Raphalalani",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/BigguyFM98000/node_express_api/issues"
+  },
+  "homepage": "https://github.com/BigguyFM98000/node_express_api#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mongodb": "^7.2.0",
+    "mongoose": "^9.6.1",
+    "nodemon": "^3.1.14"
+  }
+}
