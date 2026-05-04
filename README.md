@@ -1,2 +1,2 @@
 # node_express_api
-A backend api created with node.js, express,js and mongodb.
+A backend api created with node.js, express,js and mongodb. The basic function of a RESTful API is the same as browsing the internet. The client contacts the server by using the API when it requires a resource. API developers explain how the client should use the REST API in the server application API documentation. These are the general steps for any REST API call: The client sends a request to the server.
